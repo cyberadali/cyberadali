@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cyberadali
-- 👀 I aspire to see my skills advance in the tourism industry to keep all individual's personal information safeguarded to remediate cyber breaches for the company.
+- 👀 I aspire to see my skills advance in the tourism industry (goal job to work in EF ULTIMATE TOURS) by safeguarding all individuals' personal information and remediating cyber breaches.
 - 🌱 I’m currently learning to automate cybersecurity tasks with python.
 - 💞️ I want to collaborate with other learners on beginner cybersecurity projects for my portfolio.
-- 📫 How to reach me: adali.tapia@yahoo.com. www.linkedin.com/in/adali-tapia-b3311486
+- 📫 How to reach me: adali.tapia@gmail.com. www.linkedin.com/in/adali-tapia-b3311486
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am an INFJ.
 
